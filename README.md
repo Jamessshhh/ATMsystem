@@ -31,4 +31,4 @@ Ensure you have the following installed:
 ### **Steps to Install**  
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/your-username/ATMsystem.git
+   git clone https://github.com/Jamessshhh/ATMsystem.git
